@@ -1,2 +1,10 @@
-https://proxy.webshare.io/proxy/list/download/joeiieccxiuerwpcxnarzlikdxqkucqagdxifgjq/-/http/username/direct/
-http://ru.proxiware.com:32000/
+45.142.28.83:8094:rgitesvq:kuzwzv411oct
+45.137.60.112:6640:rgitesvq:kuzwzv411oct
+45.140.13.124:9137:rgitesvq:kuzwzv411oct
+45.140.13.112:9125:rgitesvq:kuzwzv411oct
+45.142.28.20:8031:rgitesvq:kuzwzv411oct
+45.140.13.119:9132:rgitesvq:kuzwzv411oct
+45.142.28.145:8156:rgitesvq:kuzwzv411oct
+45.142.28.187:8198:rgitesvq:kuzwzv411oct
+176.116.230.128:7214:rgitesvq:kuzwzv411oct
+176.116.230.151:7237:rgitesvq:kuzwzv411oct
